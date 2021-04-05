@@ -25,3 +25,4 @@ table 201
 | all read    |        file          |
 | ----------- | -------------------- |
 | read6       | [read6](read6.md)    |
+| read7       | [read7](read7.md)    |
