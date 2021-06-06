@@ -35,7 +35,7 @@ Code 301 - Intermediate Software Development
 
 | all read    |        file          |
 | ----------- | -------------------- |
-| read300       | [read300](read300.md)    |
+| read300       | [read300](read300.md) |
 | class301     | [class301](class301.md)|
 | class302     | [class302](class302.md)|
 | class303     | [class303](class303.md)|
